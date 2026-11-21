@@ -97,10 +97,6 @@ was provided by the AISO Water Hackathon organisers behind an access key. It is
 The map's reference level for each pollutant is the 75th percentile of the
 values in the dataset. It is a relative benchmark, **not a legal standard**.
 
-If you have hackathon access, put the raw files in `datasets/AGV/`. The
-`datasets/` and `report/` folders are git-ignored, so real data and generated
-outputs stay out of the repository.
-
 ## API (work in progress)
 
 `api/server.py` is a standard-library HTTP server that is meant to replace the
